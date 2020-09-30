@@ -10,3 +10,7 @@ including their 116th Congress House, Senate, and social media crawl seeds.
 ### Library of Congress seeds
 Library of Congress provided a spreadsheet of federal government URL data.
 
+### GSA federal domains and pulse subomains
+CSV taken from the GSA GitHub repo at:
+https://github.com/GSA/data/tree/master/dotgov-domains
+https://github.com/GSA/data/tree/master/dotgov-websites
