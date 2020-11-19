@@ -14,3 +14,8 @@ Library of Congress provided a spreadsheet of federal government URL data.
 CSV taken from the GSA GitHub repo at:
 https://github.com/GSA/data/tree/master/dotgov-domains
 https://github.com/GSA/data/tree/master/dotgov-websites
+
+### UCSD seeds
+Kelly L. Smith, Government Information Coordinator and Librarian for
+Urban Studies & Planning / Environmental Policy at UC San Diego Library, coordinated a crew
+of 10 staff/student assistants working through her GovSpeak guide and nominating seeds.
