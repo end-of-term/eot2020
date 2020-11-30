@@ -11,9 +11,13 @@ including their 116th Congress House, Senate, and social media crawl seeds.
 Library of Congress provided a spreadsheet of federal government URL data.
 
 ### GSA federal domains and pulse subomains
-CSV taken from the GSA GitHub repo at:
-https://github.com/GSA/data/tree/master/dotgov-domains
-https://github.com/GSA/data/tree/master/dotgov-websites
+CSVs taken from the GSA GitHub repo at:
+* https://github.com/GSA/data/tree/master/dotgov-domains
+* https://github.com/GSA/data/tree/master/dotgov-websites
+
+CSV of federal government managed domains that exist outside of the top-level .gov and .mil
+domains pulled from:
+https://github.com/GSA/govt-urls/blob/master/2_govt_urls_federal_only.csv
 
 ### UCSD seeds
 Kelly L. Smith, Government Information Coordinator and Librarian for
