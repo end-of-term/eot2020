@@ -18,4 +18,5 @@ https://github.com/GSA/data/tree/master/dotgov-websites
 ### UCSD seeds
 Kelly L. Smith, Government Information Coordinator and Librarian for
 Urban Studies & Planning / Environmental Policy at UC San Diego Library, coordinated a crew
-of 10 staff/student assistants working through her GovSpeak guide and nominating seeds.
+of 10 staff/student assistants working through her GovSpeak guide and nominating seeds (govspeak_for_eot_final.xlsx).
+Smith also produced a list of ftp sites (ftp_eot.xlsx).
