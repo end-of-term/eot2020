@@ -24,3 +24,6 @@ Kelly L. Smith, Government Information Coordinator and Librarian for
 Urban Studies & Planning / Environmental Policy at UC San Diego Library, coordinated a crew
 of 10 staff/student assistants working through her GovSpeak guide and nominating seeds (govspeak_for_eot_final.xlsx).
 Smith also produced a list of ftp sites (ftp_eot.xlsx).
+
+### EDGI seeds
+These seeds are based on URLs the [Environmental Data & Governance Initiative (EDGI)](https://envirodatagov.org/) monitors as part of its [website monitoring](https://envirodatagov.org/website-monitoring/) and most were originally sourced from community efforts as part of a series of [“DataRescue” events in 2017](https://envirodatagov.org/datarescue/).
