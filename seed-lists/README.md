@@ -19,6 +19,8 @@ CSV of federal government managed domains that exist outside of the top-level .g
 domains pulled from:
 https://github.com/GSA/govt-urls/blob/master/2_govt_urls_federal_only.csv
 
+TSV of social media accounts from US Digital Registry.
+
 ### UCSD seeds
 Kelly L. Smith, Government Information Coordinator and Librarian for
 Urban Studies & Planning / Environmental Policy at UC San Diego Library, coordinated a crew
