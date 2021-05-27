@@ -13,7 +13,7 @@ The project also solicits public nominations of websites to include in the archi
 The project has two phases: A broad, comprehensive baseline crawl of identified websites and more selective, focused crawls based on priorities established by the partners.
 
 **Comprehensive Crawl** - The Internet Archive will undertake a comprehensive crawl of the URLs identified for this project beginning in October 2020 and again in early 2021 after the inauguration.
-**Prioritized Crawl** - The project team is calling upon government information specialists, including librarians, political and social science researchers, and academics to assist in the selection and prioritization of the selected web sites to be included in the collection, as well as identifying the frequency and depth of collecting. The schedule for crawling of the prioritized URLs will be distributed across the project eam and announced as the project gets underway.
+**Prioritized Crawl** - The project team is calling upon government information specialists, including librarians, political and social science researchers, and academics to assist in the selection and prioritization of the selected web sites to be included in the collection, as well as identifying the frequency and depth of collecting. The schedule for crawling of the prioritized URLs will be distributed across the project team and announced as the project gets underway.
 
 ## Access
 * The [End of Term Web Archive](http://eotarchive.cdlib.org/index.html) portal provides access to archived sites collected as part of the project.
